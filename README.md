@@ -24,5 +24,5 @@ wordsearch(puzzle, wordlist)
 
 ```
 
-
+## Screenshot
 <img width="500" alt="Screenshot 2023-05-11 at 5 01 05 AM" src="https://github.com/ammansoomro/Word-Search-Puzzle-Solver/assets/63865428/408d38de-1d72-4501-9d25-e331fba3bdc2">
