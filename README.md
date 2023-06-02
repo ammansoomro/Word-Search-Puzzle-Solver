@@ -1,4 +1,4 @@
-# Word Search Puzzle Solver
+# WordSearchWizard: Word Search Puzzle Solver
 This repository contains a Python script for solving word search puzzles. Given a puzzle and a list of words to find, the script finds the positions of each word in the puzzle and returns a colored display of the puzzle with the found words highlighted.
 
 ## Installation
